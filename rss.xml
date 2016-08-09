@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sudoku Books]]></title>
+        <description><![CDATA[Sudoku Books]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 15:43:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Famous Frog Sudoku 200 Very Hard Puzzles With Solutions: A Take a Break Series Pocket Size Book (Volume 20)]]></title>
+            <description><![CDATA[<article><h1>Famous Frog Sudoku 200 Very Hard Puzzles With Solutions: A Take a Break Series Pocket Size Book (Volume 20)</h1><img src="http://ecx.images-amazon.com/images/I/51lRjdv0CRL.jpg"></article>]]></description>
+            <link>https://www.amazon.com/Famous-Frog-Sudoku-Puzzles-Solutions/dp/1536930245</link>
+            <guid isPermaLink="false">2028535b-5e93-42ec-9545-fc20594ba35c</guid>
+            <pubDate>Tue, 09 Aug 2016 15:43:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
