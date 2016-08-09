@@ -1,4 +1,3 @@
-layout_spectrum: 0.6168934034649283
 typography_spectrum: 0.6016213630791754
 color:
   brandStrength: 0.16694489144720137
@@ -11,5 +10,7 @@ color:
     - '#1D92C5'
     - '#8FA865'
     - '#0B4880'
+layout_spectrum: 0.6168934034649283
 name: Famous Frog Sudoku
 title: Sudoku Books
+description: Don't Need To Be Boring!
