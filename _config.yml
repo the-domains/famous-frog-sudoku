@@ -1,0 +1,14 @@
+layout_spectrum: 0.6168934034649283
+typography_spectrum: 0.6016213630791754
+color:
+  brandStrength: 0.16694489144720137
+  lightness: 0.9341978288721293
+  saturation: 0.470749378670007
+  rhythmicContrast: 0.8597067515365779
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Famous Frog Sudoku
