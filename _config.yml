@@ -1,16 +1,30 @@
-typography_spectrum: 0.6016213630791754
+name: Famous Frog Sudoku
+favicon: null
+layout_spectrum: 0.76033
+typography_spectrum: 0.87621
+title: Sudoku Books
+description: Don't Need To Be Boring!
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.16694489144720137
-  lightness: 0.9341978288721293
-  saturation: 0.470749378670007
-  rhythmicContrast: 0.8597067515365779
   brandColors:
     - '#F92E1A'
     - '#FCFCB4'
     - '#1D92C5'
     - '#8FA865'
     - '#0B4880'
-layout_spectrum: 0.6168934034649283
-name: Famous Frog Sudoku
-title: Sudoku Books
-description: Don't Need To Be Boring!
+  brandStrength: 0.16694489144720137
+  lightness: 0.9341978288721293
+  saturation: 0.470749378670007
+  rhythmicContrast: 1
+purpose: []
